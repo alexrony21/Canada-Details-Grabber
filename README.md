@@ -1,6 +1,7 @@
 # Canada Details Grabber
 
-![image]()
+![image](https://raw.githubusercontent.com/alexrony21/Canada-Details-Grabber/refs/heads/main/Canada_Grabber.png)
+![image](https://raw.githubusercontent.com/alexrony21/Canada-Details-Grabber/refs/heads/main/Canada_Grabber_Result.png)
 
 ## Features:
 
